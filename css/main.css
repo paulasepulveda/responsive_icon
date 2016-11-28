@@ -1,0 +1,21 @@
+* {
+	margin:0px;
+	padding: 0px;
+}
+
+.container {
+	width: 1000px;
+	margin: 40px 100px;
+}
+.titulo > .fa {
+	font-size: 13px;
+}
+
+.menu {
+	list-style: none;
+	text-decoration: none;
+	display: block;
+	
+
+}
+
